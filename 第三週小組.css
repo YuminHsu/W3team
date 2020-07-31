@@ -64,7 +64,7 @@ body{
 }
 
 .header h1 a{
-    background-image: url(https://github.com/YuminHsu/W3team/blob/master/images/M1.png);
+    background-image: url(https://raw.githubusercontent.com/YuminHsu/W3team/master/images/M1.png);
     display: block;
     width: 250px;
     height: 250px;
@@ -136,7 +136,7 @@ body{
         align-items: center;
     }
     .header h1 a{
-        background-image: url(https://github.com/YuminHsu/W3team/blob/master/images/M2.png);
+        background-image: url(https://raw.githubusercontent.com/YuminHsu/W3team/master/images/M2.png);
         width: 150px;
         height: 150px;
         margin-bottom: 20px;
